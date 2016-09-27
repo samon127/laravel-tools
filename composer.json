@@ -3,7 +3,7 @@
     "description": "some tools for laravel",
     "type": "library",
     "require": {
-        "laravel/laravel": "^5.3"
+        "laravel/laravel": "^5.3.*"
     },
     "license": "MIT",
     "authors": [
