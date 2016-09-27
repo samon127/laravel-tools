@@ -18,5 +18,10 @@
             "App\\": "app/",
             "samon127\\laravel-tools\\": "packages/samon127/laravel-toos/src"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1"
+        }
     }
 }
