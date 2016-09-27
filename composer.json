@@ -1,0 +1,22 @@
+{
+    "name": "samon127/laravel-tools",
+    "description": "some tools for laravel",
+    "type": "library",
+    "require": {
+        "laravel/laravel": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marvin",
+            "email": "samon127@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "samon127\\laravel-tools\\": "packages/samon127/laravel-toos/src"
+        }
+    }
+}
